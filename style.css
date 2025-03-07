@@ -1,0 +1,75 @@
+body {
+  background-color: hsl(30, 54%, 90%);
+}
+#box1 {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+  width: 500px;
+  height: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 100px;
+  padding: 30px;
+  font-family: "Young-Serif";
+}
+img {
+  height: 210px;
+  width: 500px;
+  border-radius: 10px;
+}
+#box2 {
+  background-color: hsl(330, 100%, 98%);
+  padding-left: 30px;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  font-family: "outfit";
+  margin-bottom: 20px;
+  margin-left: 0;
+  border-radius: 10px;
+}
+em {
+  font-style: normal;
+  font-weight: 600;
+}
+.b {
+  font-style: normal;
+  font-weight: 600;
+  padding-left: 10px;
+}
+li {
+  margin-bottom: 15px;
+  padding-left: 15px;
+}
+#prep {
+  color: hsl(332, 51%, 32%);
+}
+h2 {
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+}
+div {
+  margin-bottom: 30px;
+}
+hr {
+  color: hsl(24, 5%, 18%);
+}
+
+table {
+  width: 500px;
+  text-align: left;
+  padding-left: 10px;
+  margin-top: 15px;
+  padding-bottom: 20px;
+}
+th {
+  border-bottom: 1px solid hsl(30, 54%, 90%);
+  padding: 10px;
+  color: hsl(24, 5%, 18%);
+}
+
+td {
+  border-bottom: 1px solid hsl(30, 54%, 90%);
+  padding: 10px;
+  color: hsl(14, 45%, 36%);
+  font-weight: bold;
+}
